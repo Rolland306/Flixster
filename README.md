@@ -24,7 +24,7 @@
 ### Notes
 
 Describe any challenges encountered while building the app.
-- When I tried adding dependencies to implement Glide transformations, the app kept giving me an error saying "Could not resolve all artifacts for configuration ':classpath'
+- When I tried adding dependencies to implement Glide transformations, the app kept giving me an error saying "Could not resolve all artifacts for configuration ':classpath'"
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
